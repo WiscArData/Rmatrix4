@@ -1,0 +1,42 @@
+{
+    "Ax": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QhfRfrlfI0dCF9anuVTtykIX29C5Q1suQhfg+blDwypCF+YiuVkqxUIX60y5WsRpQhfwdblAKfJCF/WeuUF1d0IX+se5LEMSQhf/8LkGf3NCGAUauP2/RUIYCkO5EkViQhgPbLkbdBBCGBSVuRp7PEIYGb65IIPXQhge6LkbwYlCGCQRuRczeEIYKTq5NT11QhguY7k22RNCGDOMuVtilUIYOLa5PrGwQhg937lWDgFCGEMIuWb7pkIYSDG5W8/VQhhNW7lU5hpCGFKEuT+Tew==",
+        "resolution": null
+    },
+    "H4": {
+        "center_dac": 38.01732811623246,
+        "center_signal": 0.031799699509030915,
+        "high_dac": 38.04927,
+        "high_resolving_power": 1585.9651403508537,
+        "high_signal": 0.006288781239126283,
+        "low_dac": 37.985386232464926,
+        "low_resolving_power": 1551.1308075604363,
+        "low_signal": 0.006152981794527831,
+        "points": "QhfRfriaR91CF9anuITun0IX29C4SvPlQhfg+bilxcpCF+YiOJpdE0IX60w62Xb3QhfwdTu2SGVCF/WePEsOH0IX+sc8tggxQhf/8Dzmc9pCGAUaPPkbk0IYCkM9AAgjQhgPbD0BljlCGBSVPQIQg0IYGb49Aim6Qhge6Dz9wypCGCQRPONT+UIYKTo8sJrwQhguYzxKbFJCGDOMO6Z8fEIYOLY67HIYQhg93zofWGxCGEMIORDlpEIYSDG36sGNQhhNW7iVMHFCGFKEuJGB4g==",
+        "resolution": 496.9065621562286
+    },
+    "L4": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QhfRfgAAAABCF9anAAAAAEIX29AyiXBfQhfg+QAAAABCF+YiMolwX0IX60wziXBfQhfwdTSjNXFCF/WeNZQtJ0IX+sc2dvXrQhf/8DcJtRdCGAUaNxD0hEIYCkM3GHiqQhgPbDcl5KNCGBSVNyb3hEIYGb43JAOaQhge6DchVGhCGCQRNwL/G0IYKTo2kX31QhguYzXdMNlCGDOMNTRjfUIYOLY0ozVxQhg93zOJcF9CGEMIMwlwX0IYSDEzTiiPQhhNWzKJcF9CGFKEMolwXw==",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H4",
+    "reference_isotope": "Ar40"
+}
