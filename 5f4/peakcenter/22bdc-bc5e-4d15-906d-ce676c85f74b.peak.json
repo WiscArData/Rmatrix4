@@ -1,0 +1,42 @@
+{
+    "Ax": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QhfQdblQ/qtCF9WeuU+O4EIX2se5VvocQhff8LlPGGRCF+UauVOWw0IX6kO5Xsh8QhfvbLlIV+FCF/SVuVH+ZUIX+b65JHzaQhf+6LkZwN9CGAQRuRlTmkIYCTq5ESQDQhgOY7kYrx5CGBOMuSFgmUIYGLa5IZgHQhgd37kXsAdCGCMIuR4iTkIYKDG5KSWqQhgtW7lRZS5CGDKEuVwT+0IYN625R1tbQhg81rlZSBVCGEH/uUpxr0IYRym5X7jDQhhMUrlaRAFCGFF7uUkjPg==",
+        "resolution": null
+    },
+    "H4": {
+        "center_dac": 38.01707561122244,
+        "center_signal": 0.0275814169630218,
+        "high_dac": 38.04927,
+        "high_resolving_power": 1553.2545189001928,
+        "high_signal": 0.005442205490770286,
+        "low_dac": 37.98488122244488,
+        "low_resolving_power": 1519.7948316499956,
+        "low_signal": 0.005475445046739197,
+        "points": "QhfQdbiUCGVCF9WeuJ+iUEIX2se4g6hHQhff8LiWgzVCF+Uat1vwN0IX6kM6hqiTQhfvbDuRuCRCF/SVPCfoY0IX+b48kndyQhf+6DzBOL9CGAQRPNVfQkIYCTo83MO2QhgOYzzgeppCGBOMPOG27UIYGLY84bQEQhgd3zzc+ipCGCMIPMsWaEIYKDE8pCXRQhgtWzxKWv5CGDKEO7A8GUIYN606+6NGQhg81joYxFxCGEH/OQMRhEIYRym3mhPDQhhMUrhtAJpCGFF7uGg2oQ==",
+        "resolution": 495.27035635963273
+    },
+    "L4": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QhfQdQAAAABCF9WeAAAAAEIX2scAAAAAQhff8AAAAABCF+UaAAAAAEIX6kMAAAAAQhfvbDSSB2VCF/SVNYUk3EIX+b42MBf6Qhf+6DbC4ldCGAQRNuXH30IYCTo2+0FuQhgOYzb4CMxCGBOMNwXzBUIYGLY3BwXmQhgd3zcDQ9NCGCMINuMYrUIYKDE2ha5NQhgtWzW2iT9CGDKENRZS6EIYN600tGN9Qhg81jQJcF9CGEH/M84oj0IYRykzCXBfQhhMUjKJcF9CGFF7MolwXw==",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H4",
+    "reference_isotope": "Ar40"
+}
